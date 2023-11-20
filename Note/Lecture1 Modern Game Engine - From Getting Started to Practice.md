@@ -200,13 +200,13 @@ A job system manages multithreaded code by creating jobs instead of threads.
 
 Unreal Engine 5's new fully dynamic global illumination and reflections system that is designed for nextgeneration consoles. It renders diffuse interreflection with infinite bounces and indirect specular reflections in large, detailed environments at scales ranging from millimeters to kilometers.
 
-![image-20231120110945980](./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120110945980.png)
+<img src="./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120110945980.png" alt="image-20231120110945980" />
 
 #### Nanite
 
 Unreal Engine 5's new virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts.
 
-![image-20231120111010125](./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120111010125.png)
+<img src="./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120111010125.png" alt="image-20231120111010125" />
 
 ## 5. Course Logistics
 
@@ -220,6 +220,13 @@ Unreal Engine 5's new virtualized geometry system which uses a new internal mesh
 - Mini editor
 - Building basic knowledge system of game engine
 
-![image-20231120111439302](./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120111439302.png)
+<img src="./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120111439302.png" alt="image-20231120111439302" />
 
-![image-20231120111444743](./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120111444743.png)
+<img src="./Lecture1 Modern Game Engine - From Getting Started to Practice.assets/image-20231120111444743.png" alt="image-20231120111444743" />
+
+### Course Project
+
+- Starting midway of this course
+- References will be provided, but you decide the topic
+- Best work will be posted online or showing off
+
