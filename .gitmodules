@@ -1,0 +1,3 @@
+[submodule "MyPiccolo"]
+	path = MyPiccolo
+	url = https://github.com/NYH-Dolphin/Piccolo.git
